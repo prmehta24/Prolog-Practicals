@@ -7,4 +7,5 @@ Prolog Practicals during IT724 Artificial Intelligence Labs at Nirma University 
     * Add element to either end or beginning of list.
     * Reverse list.
     * Find element in list.
+* I ran these programs in Turbo PROLOG with DOSBOX. The instructions to install it can be found [here](http://codeforcurious.blogspot.com/2016/02/prolog-programming-dosbox-turbo-prolog.html).
     
